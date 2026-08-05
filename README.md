@@ -3,10 +3,22 @@
      Repo:   github.com/elsawi-osman/elsawi-osman
      Accent: #61dafb
 
-     REQUIRED FILES (this README breaks without them):
-       assets/header.svg   — animated banner
-       assets/streak.svg   — streak card snapshot
+     ⚠ REQUIRED FILES — this README shows broken images without them:
+         assets/header.svg   animated banner
+         assets/streak.svg   streak card snapshot
+     Run ./setup.sh to commit them, or upload the assets/ folder manually.
+
+     ⚠ DO NOT add a shields "dynamic/json" badge pointing at api.github.com.
+       Shields calls GitHub unauthenticated from a shared IP pool, gets
+       rate-limited, and renders the badge as "invalid".
      ══════════════════════════════════════════════════════════════════════ -->
+
+
+<!-- ─────────────────────────── VISITOR COUNTER ─────────────────────────── -->
+
+<img align="right"
+     src="https://visitor-badge.laobi.icu/badge?page_id=elsawi-osman.elsawi-osman"
+     alt="Visitors">
 
 
 <!-- ─────────────────────────── HEADER ─────────────────────────── -->
@@ -52,8 +64,8 @@
 
 
 <!-- ═══════════════════════════════════════════════════════════════
-     TECH STACK
-     Icons served by jsDelivr (devicon). Delete any line you don't use.
+     TECH STACK — icons via jsDelivr (devicon).
+     Delete any line for tools you don't use.
      ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🔥 Tech Stack 🔥</h2>
@@ -126,7 +138,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/elsawi-osman?style=flat-square&logo=github&label=Followers&color=61dafb&labelColor=20232a" alt="Followers">
   <img src="https://img.shields.io/github/stars/elsawi-osman?style=flat-square&logo=github&label=Total%20Stars&color=61dafb&labelColor=20232a" alt="Total Stars">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Felsawi-osman&query=%24.public_repos&style=flat-square&logo=github&label=Public%20Repos&color=61dafb&labelColor=20232a" alt="Public Repos">
 </p>
 
 <p align="center">
@@ -147,8 +158,7 @@
 
 
 <!-- ═══════════════════════════════════════════════════════════════
-     REPOSITORIES
-     A plain table — never breaks, unlike the pinned-card service.
+     REPOSITORIES — plain table, never breaks.
      Add one row per project.
      ═══════════════════════════════════════════════════════════════ -->
 
