@@ -66,12 +66,19 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/elsawi-osman?style=flat-square&logo=github&color=61dafb&labelColor=20232a&label=Followers">
+  <img src="https://img.shields.io/github/stars/elsawi-osman?style=flat-square&logo=github&color=61dafb&labelColor=20232a&label=Total%20Stars">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Felsawi-osman&query=%24.public_repos&style=flat-square&logo=github&color=61dafb&labelColor=20232a&label=Public%20Repos">
+</p>
+
 <div align="center">
-  <img width="450" src="https://streak-stats.demolab.com/?user=elsawi-osman&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" />
+  <img width="450" src="https://streak-stats.demolab.com/?user=elsawi-osman&theme=react&border=61dafb&hide_border=true&card_width=450&cb=1" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=elsawi-osman&theme=react-dark&bg_color=20232a&line=61dafb&point=ffffff&hide_border=true" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=elsawi-osman&theme=react-dark&bg_color=20232a&line=61dafb&point=ffffff&hide_border=true&cb=1" alt="Contribution Graph" />
 </div>
 
 <hr>
