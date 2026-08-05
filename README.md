@@ -3,14 +3,16 @@
      Repo:   github.com/elsawi-osman/elsawi-osman
      Accent: #61dafb
 
-     ⚠ REQUIRED FILES — this README shows broken images without them:
-         assets/header.svg   animated banner
-         assets/streak.svg   streak card snapshot
-     Run ./setup.sh to commit them, or upload the assets/ folder manually.
-
-     ⚠ DO NOT add a shields "dynamic/json" badge pointing at api.github.com.
+     NOTES
+     • Banner uses readme-typing-svg.herokuapp.com — the original working
+       host. Verified 5/5 OK. Only change from v1: width=650, which stops
+       "Nice to meet you!" being cut off mid-word.
+     • Streak card removed — streak-stats.demolab.com 503s ~1 request in 4
+       and GitHub's image proxy caches the failure permanently.
+     • Do NOT add a shields "dynamic/json" badge pointing at api.github.com.
        Shields calls GitHub unauthenticated from a shared IP pool, gets
        rate-limited, and renders the badge as "invalid".
+     • No local assets needed. This file is fully self-contained.
      ══════════════════════════════════════════════════════════════════════ -->
 
 
@@ -23,12 +25,11 @@
 
 <!-- ─────────────────────────── HEADER ─────────────────────────── -->
 
-<p align="center">
+<h1 align="center">
   <img
-    src="https://raw.githubusercontent.com/elsawi-osman/elsawi-osman/main/assets/header.svg"
-    width="600"
+    src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+%F0%9F%91%8B;This+is+Elsawi+Osman....;Nice+to+meet+you!&center=true&size=30&width=650&color=61dafb"
     alt="Hello, There! This is Elsawi Osman. Nice to meet you!">
-</p>
+</h1>
 
 <p align="center">
   <a href="https://github.com/elsawi-osman">
@@ -125,12 +126,7 @@
 
 
 <!-- ═══════════════════════════════════════════════════════════════
-     STATS
-     streak.svg is served from THIS repo, refreshed daily by
-     .github/workflows/streak-snapshot.yml.
-     Do NOT point it back at streak-stats.demolab.com — that host
-     503s roughly 1 request in 4, and GitHub's image proxy caches
-     the failure permanently.
+     STATS — streak card intentionally removed (unreliable host).
      ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -138,13 +134,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/elsawi-osman?style=flat-square&logo=github&label=Followers&color=61dafb&labelColor=20232a" alt="Followers">
   <img src="https://img.shields.io/github/stars/elsawi-osman?style=flat-square&logo=github&label=Total%20Stars&color=61dafb&labelColor=20232a" alt="Total Stars">
-</p>
-
-<p align="center">
-  <img
-    width="450"
-    src="https://raw.githubusercontent.com/elsawi-osman/elsawi-osman/main/assets/streak.svg"
-    alt="GitHub Streak">
 </p>
 
 <p align="center">
