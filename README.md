@@ -1,9 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=elsawi-osman.elsawi-osman">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+%F0%9F%91%8B;TThis+is+Elsawi+Osman....;Nice+to+meet+you!&center=true&size=30&color=61dafb">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+There!+%F0%9F%91%8B;This+is+Elsawi+Osman....;Nice+to+meet+you!&center=true&size=28&width=600&height=60&color=61dafb&vCenter=true&pause=1000">
 </h1>
 
 <h5 align="center">
@@ -24,6 +22,12 @@
   🚀 Passionate about DevOps, automation, and clean engineering processes
   <br>
   💬 Ask me anything from <a href="https://github.com/elsawi-osman/elsawi-osman/issues" title="Issues">Here</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/elsawi-osman?style=for-the-badge&color=61dafb&labelColor=20232a&logo=github">
+  <img src="https://img.shields.io/badge/Location-UAE-61dafb?style=for-the-badge&labelColor=20232a">
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20DevOps-61dafb?style=for-the-badge&labelColor=20232a">
 </p>
 
 <hr>
@@ -62,34 +66,26 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=elsawi-osman&theme=react&border=61dafb&hide_border=true" alt="elsawi-osman" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=elsawi-osman&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsawi-osman&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elsawi-osman&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+<div align="center">
+  <img width="450" src="https://streak-stats.demolab.com/?user=elsawi-osman&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=elsawi-osman&theme=react-dark&bg_color=20232a&line=61dafb&point=ffffff&hide_border=true" alt="Contribution Graph" />
+</div>
 
 <hr>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
-<div width="100%" align="center">
-  <a href="https://github.com/elsawi-osman/job-board-ai-e" title="AI Job Board"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=elsawi-osman&repo=job-board-ai-e&theme=react&border_color=61dafb&border_radius=10"></a>
+
+<div align="center">
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[job-board-ai-e](https://github.com/elsawi-osman/job-board-ai-e)** | AI-powered job board with automated listing parsing and matching | `TypeScript` `Express` `SQLite` `OpenAI` |
+
 </div>
-<br>
 
 <h4 align="center">
   <a href="https://github.com/elsawi-osman?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
