@@ -74,11 +74,11 @@
 </p>
 
 <div align="center">
-  <img width="450" src="https://streak-stats.demolab.com/?user=elsawi-osman&theme=react&border=61dafb&hide_border=true&card_width=450&cb=1" alt="GitHub Streak" />
+  <img width="450" src="https://raw.githubusercontent.com/elsawi-osman/elsawi-osman/main/assets/streak.svg" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=elsawi-osman&theme=react-dark&bg_color=20232a&line=61dafb&point=ffffff&hide_border=true&cb=1" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=elsawi-osman&theme=react-dark&bg_color=20232a&line=61dafb&point=ffffff&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <hr>
